@@ -87,6 +87,8 @@ It is a virtual environment that utilizes the laptop camera to capture the user'
    ```bash 
  Pip install imutils
   ```
+![image](https://github.com/kamal01singh/Virtual-Trial-Room/assets/106004575/aeb2aaa2-19bb-447c-b05d-d2657e324ee3)
+
 
 
 
